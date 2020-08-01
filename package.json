@@ -1,0 +1,13 @@
+{
+  "name": "tekton-trigger",
+  "version": "1.0.0",
+  "description": "Tekton CD",
+  "main": "index.js",
+  "repository": "https://github.com/cakiem8x/tekton-trigger.git",
+  "author": "Van Nguyen <vannh@gviet.vn>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "bunyan": "^1.8.14"
+  }
+}
